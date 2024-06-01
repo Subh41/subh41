@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/subhojit-das" target="https://www.linkedin.com/in/subhojit-das-1896a0288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/subhojit-das" height="30" width="40" /></a>
-<a href="https://fb.com/subhojitdas" target="https://www.facebook.com/share/y6p6vyA9WiwNadhk/?mibextid=qi2Omg"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhojitdas" height="30" width="40" /></a>
-<a href="https://instagram.com/unslvd__mystry.___" target="https://www.instagram.com/unslvd__mystry.___?igsh=MXRpcGZtZjg1NHM0Zw=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unslvd__mystry.___" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/subhojit-das" target="https://www.linkedin.com/in/subhojit-das-1896a0288"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/subhojit-das" height="30" width="40" /></a>
+<a href="https://fb.com/subhojitdas" target="https://www.facebook.com/profile.php?id=100056286570778"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhojitdas" height="30" width="40" /></a>
+<a href="https://instagram.com/unslvd__mystry.____" target="https://www.instagram.com/unslvd__mystry.____"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unslvd__mystry.____" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
