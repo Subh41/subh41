@@ -2,6 +2,7 @@
 <h3 align="center">A passionate coder from India.</h3>
 
 
+
 - 🔭 I’m currently studying at **University of Engineering and Management**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
