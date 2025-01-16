@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUBHOJIT DAS</h1>
 <h3 align="center">A passionate coder from India.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subh41" alt="subh41" /></a> </p>
+
 
 - 🔭 I’m currently studying at **University of Engineering and Management**
 
