@@ -53,9 +53,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://swatadru.github.io/MyPortfolio/](https://swatadru.github.io/MyPortfolio/)</a>
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C**
 
-- 📫 How to reach me **swatadrupaul@gmail.com**
+- 📫 How to reach me **subh2k5@gmail.com**
 
 - 📄 Know about my experiences <a href="https://swatadru.github.io/MyPortfolio/#resume" class="resume-link">[https://swatadru.github.io/MyPortfolio/#resume](https://swatadru.github.io/MyPortfolio/#resume)</a>
 
