@@ -1,20 +1,20 @@
 <!-- banner image to be updated -->
-![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)
+<!--![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)-->
 
 <!-- profile views -->
-<p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
+<p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=Subh41&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
 
 <h1 align="center" class="title">Hi 👋, I'm Subhojit Das</h1>
-<h3 align="center" class="subtitle">A passionate Coder from India</h3>
+<h3 align="center" class="subtitle">A passionate Developer from India</h3>
 
 
 <h3 align="center" class="connect-title">🔗 Connect with me 🌏</h3>
 
 <p align="center" class="social-media">
-<a href="https://twitter.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swatadrupaul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/swatadru-paul-79037328a" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/swatadru-paul-79037328a" height="30" width="40" /></a>
-<a href="https://fb.com/swatadru.paul.7" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swatadrupaul" height="30" width="40" /></a>
-<a href="https://instagram.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swatadrupaul" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swatadrupaul" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/subhojit-das-1896a0288" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subhojit-das-1896a0288" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amar.ghosh.94695" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subh41" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subh_here.__" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subh41" height="30" width="40" /></a>
 <!--<a href="https://www.codechef.com/users/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://kaggle.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swatadrupaul" height="30" width="40" /></a>
@@ -26,10 +26,10 @@
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=Subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=Subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
 </div>
 
 <!-- github stats -->
@@ -45,9 +45,9 @@
 
 <!-- LeetCode stats -->
 <h3 align="center">📊 Coding Stats 📈</h3>
-<p align="center"><img src="https://leetcard.jacoblin.cool/swatadru_paul?ext=heatmap&theme=dark"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/Subh10?ext=heatmap&theme=dark"></p>
 
-<p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>
+<!--<p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>-->
 
 - 🌱 I’m currently learning <span class="highlight">**Java, C, Python, AI-ML, Web & App Development**</span>
 
