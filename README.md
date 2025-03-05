@@ -4,7 +4,7 @@
 <!-- profile views -->
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=swatadru&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
 
-<h1 align="center" class="title">Hi 👋, I'm SWATADRU PAUL</h1>
+<h1 align="center" class="title">Hi 👋, I'm Subhojit Das</h1>
 <h3 align="center" class="subtitle">A passionate Coder from India</h3>
 
 
@@ -26,20 +26,20 @@
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=swatadru&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=swatadru&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=subh41&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
 </div>
 
 <!-- github stats -->
 <h3 align="center">📈 GitHub Stats 📊</h3>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=swatadru&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=swatadru&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
+  <img width=390 src="https://streak-stats.demolab.com/?user=subh41&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=subh41&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
     &nbsp;&nbsp;
   <br/>
-  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=swatadru&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
+  <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=subh41&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
 </div>
 <br>
 
