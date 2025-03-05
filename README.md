@@ -5,7 +5,7 @@
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=Subh41&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
 
 <h1 align="center" class="title">Hi 👋, I'm Subhojit Das</h1>
-<h3 align="center" class="subtitle">A passionate Developer from India</h3>
+<h3 align="center" class="subtitle">A passionate Coder from India</h3>
 
 
 <h3 align="center" class="connect-title">🔗 Connect with me 🌏</h3>
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/subhojit-das-1896a0288" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subhojit-das-1896a0288" height="30" width="40" /></a>
 <a href="https://www.facebook.com/amar.ghosh.94695" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subh41" height="30" width="40" /></a>
 <a href="https://www.instagram.com/subh_here.__" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subh41" height="30" width="40" /></a>
-<!--<a href="https://www.codechef.com/users/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swatadrupaul" height="30" width="40" /></a>
+<!--<a href="https://unstop.com/u/subhodas94382" target="blank" class="social-icon"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://kaggle.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swatadrupaul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swatadrupaul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swatadru_paul" target="blank" class="social-icon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swatadrupaul" height="30" width="40" /></a>
@@ -49,15 +49,15 @@
 
 <!--<p align="left" class="twitter"> <a href="https://twitter.com/swatadrupaul" target="blank"><img src="https://img.shields.io/twitter/follow/swatadrupaul?logo=twitter&style=for-the-badge" alt="swatadrupaul" /></a> </p>-->
 
-- 🌱 I’m currently learning <span class="highlight">**Java, C, Python, AI-ML, Web & App Development**</span>
+- 🌱 I’m currently learning <span class="highlight">**Java, C, Python, Data Structure, Algorithms, AI-ML, Web & App Development**</span>
 
-- 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://swatadru.github.io/MyPortfolio/](https://swatadru.github.io/MyPortfolio/)</a>
+- 👨‍💻 All of my projects are available at <a href="https://swatadru.github.io/MyPortfolio/" class="project-link">[https://subh41.github.io/Portfolio/](https://subh41.github.io/Portfolio/)</a>
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C and Algorithms**
 
-- 📫 How to reach me **subh2k5@gmail.com**
+- 📫 How to reach me **subhojitdas0019@gmail.com**
 
-- 📄 Know about my experiences <a href="https://swatadru.github.io/MyPortfolio/#resume" class="resume-link">[https://swatadru.github.io/MyPortfolio/#resume](https://swatadru.github.io/MyPortfolio/#resume)</a>
+- 📄 Know about my experiences <a href="https://subh41.github.io/Portfolio/#resume" class="resume-link">[https://subh41.github.io/Portfolio/#resume](https://subh41.github.io/Portfolio/#resume)</a>
 
 
 <!-- Skills -->
@@ -79,14 +79,14 @@
     <img src="images/languages/bash.svg" height="34" alt="bash" align=right>&nbsp;&nbsp;
     <img src="images/languages/python.svg" height="34" alt="python" align=right>&nbsp;&nbsp;
     <img src="images/languages/java.svg" height="34" alt="JAVA" align=right>&nbsp;&nbsp;
-    <!--<img src="images/languages/c-sharp.svg" height="34" alt="C#" align=right>&nbsp;&nbsp;
-    <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp; -->
+    <img src="images/languages/c-sharp.svg" height="34" alt="C#" align=right>&nbsp;&nbsp;
+    <img src="images/languages/cpp.svg" height="34" alt="C++" align=right>&nbsp;&nbsp; 
     <img src="images/languages/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Frontend:&nbsp;&nbsp; <!-- Frontend -->
     <!--<img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/typescript.svg" height="34" alt="TypeScrip" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/typescript.svg" height="34" alt="TypeScript" align=right>&nbsp;&nbsp;
     <img src="images/frontend/tailwind-css.svg" height="34" alt="Tailwind CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/bootstrap.svg" height="34" alt="Bootstrap" align=right>&nbsp;&nbsp;-->
     <img src="images/frontend/js.svg" height="34" alt="JavaScript" align=right>&nbsp;&nbsp;
@@ -106,11 +106,11 @@
     <img src="images/database/MySQL.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
 
-<!--<h1>Cloud:&nbsp;&nbsp;
-    <img src="images/cloud/azure.svg" height="34" alt="Azure" align=right>&nbsp;&nbsp;
+<h1>Cloud:&nbsp;&nbsp;
+    <!--<img src="images/cloud/azure.svg" height="34" alt="Azure" align=right>&nbsp;&nbsp;-->
     <img src="images/cloud/GCP-Dark.svg" height="34" alt="GCP" align=right>&nbsp;&nbsp;
     <img src="images/cloud/AWS-Dark.svg" height="34" alt="AWS" align=right>&nbsp;&nbsp;
-</h1> -->
+</h1> 
 
 <h1>DevOps:&nbsp;&nbsp; <!-- DevOps -->
     <img src="images/dev-ops/github.svg" height="34" alt="Github" align=right>&nbsp;&nbsp;
