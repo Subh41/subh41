@@ -1,5 +1,5 @@
 <!-- banner image to be updated -->
-<!--![logo](https://github.com/Swatadru/Swatadru/blob/main/GitHub_Banner.jpg)-->
+![logo](https://github.com/Subh41/subh41/blob/main/git_banner.jpg)
 
 <!-- profile views -->
 <p align="left" class="profile-view"> <img src="https://komarev.com/ghpvc/?username=Subh41&label=Profile%20views&color=0e75b6&style=flat" alt="swatadrupaul" /> </p>
